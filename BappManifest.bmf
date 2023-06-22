@@ -1,0 +1,13 @@
+Uuid: f12b0f468c0942ceadeb56cfe642885b
+ExtensionType: 2
+Name: Header Issue Reporter
+RepoName: header-issue-reporter
+ScreenVersion: 1.0
+SerialVersion: 1
+MinPlatformVersion: 0
+ProOnly: True
+Author: dh0ck
+ShortDescription: Identifies and reports issues in headers
+EntryPoint: headers_window.py
+BuildCommand: 
+SupportedProducts: Pro
